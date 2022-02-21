@@ -8,7 +8,6 @@
     <ul>
       <li><a href="index.php">HOME</a></li>
       <li><a href="LT2/Index.html">Learning Task</a></li>
-      <li><a href="LT2/LT2/Simple%20Spaghetti%20Bolognaise.html">Learning Task</a></li>
     </ul>
   </body>
 </html>
