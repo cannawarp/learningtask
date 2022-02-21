@@ -7,7 +7,7 @@
     <h1>Welcome to My Website! I am Ralph Nestor Lazarte!</h1>
     <ul>
       <li><a href="index.php">HOME</a></li>
-      <li><a href="LT2/Index.html">Learning Task</a></li>
+      <li><a href="LT2/Index.html">Learning Task 2</a></li>
     </ul>
   </body>
 </html>
