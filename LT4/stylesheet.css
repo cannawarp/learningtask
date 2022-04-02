@@ -1,0 +1,41 @@
+#wrapper{
+    height: 920px;
+    width: 1910px;
+    align-content: center;
+}
+
+#body{
+    background-image: url(BG-Image.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    background-position: center;
+}
+
+#p1{
+    font-size: 40px;
+    text-align: right;
+    position: absolute;
+    top: 28%;
+    left: 28%;
+    right: 5%;
+    color: white;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#p2{
+    font-size: 42px;
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    right: 5%;
+    color: floralwhite;
+    font-weight: normal;
+    font-family: 'Roboto Mono', monospace;
+}
+
+span{
+    color: #00ffe7;
+    font-family: 'Poppins', sans-serif;
+}
